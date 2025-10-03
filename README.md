@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <h1>Hey there, I’m **Vishwas Saurabh** 👋</h1>
+  <h1>Hey there, I’m Vishwas Saurabh 👋</h1>
 
   <p>
     <em>
@@ -109,5 +109,5 @@ Here are some standout projects (you can link to your repos):
 ---
 
 <p align="center">
-  Made with ❤️ by **Vishwas Saurabh** | Thanks for visiting 👀  
+  Made with ❤️ by Vishwas Saurabh | Thanks for visiting 👀  
 </p>
