@@ -103,7 +103,6 @@ Here are some standout projects (you can link to your repos):
 | Platform | Location / Profile |
 |---------|----------------------|
 | LinkedIn | _Your LinkedIn URL_ |
-| Twitter | _Your Twitter handle_ |
 | Email | _Your Email ID_ |
 
 ---
