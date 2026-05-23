@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey There, I'm Saurabh 👋</h1>
+<h1 align="center">✨ Hey There, I'm Vishwas Saurabh 👋</h1>
 
 <h3 align="center">
 🚀 Full Stack Web Developer | MERN Stack Developer | Gen AI Enthusiast
@@ -22,7 +22,7 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Completed **Full Stack Web Development** Course from **Udemy**
+- 🎓 Completed **Full Stack Web Development With Mern Stack & Gen AI** Course from **Udemy**
 - 💻 Passionate about **MERN Stack Development**
 - 🤖 Exploring **Generative AI & AI-Powered Applications**
 - 🔥 Love Building Real-World Projects
