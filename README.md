@@ -1,9 +1,16 @@
-<h1 align="center">✨ Hey there, I'm Vishwas Saurabh 👋</h1>
-<h3 align="center">🚀 Full Stack Web Developer (MERN) | GenAI | AI Prompting | Cursor AI</h3>
+<h1 align="center">✨ Hey There, I'm Saurabh 👋</h1>
+
+<h3 align="center">
+🚀 Full Stack Web Developer | MERN Stack Developer | Gen AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer+(MERN+Stack)+💻;React+%7C+Node.js+%7C+Express+%7C+MongoDB+🔥;GenAI+%7C+AI+Prompting+%7C+Cursor+AI+⚡;Always+Learning+%26+Building+Projects+🚀" />
+  <a href="https://github.com/Vishwassaurabh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Learning+Generative+AI;Building+Modern+Web+Applications+🚀" />
+  </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishwassaurabh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -11,79 +18,125 @@
 
 ---
 
-## 👨‍💻 About Me  
-✅ Full Stack Web Developer specialized in **MERN Stack**  
-✅ Exploring **GenAI + AI Prompting** for smart applications  
-✅ Building modern apps with clean UI + strong backend  
-✅ Learning & improving every day 🚀  
+# 💫 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Completed **Full Stack Web Development** Course from **Udemy**
+- 💻 Passionate about **MERN Stack Development**
+- 🤖 Exploring **Generative AI & AI-Powered Applications**
+- 🔥 Love Building Real-World Projects
+- 🌱 Currently Learning **DSA & Advanced React**
+- ⚡ Goal: Become a Professional Software Developer
+
+<br><br>
 
 ---
 
-## 🧰 Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github" />
+# 🚀 Tech Stack
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Prompting-6A5ACD?style=for-the-badge&logo=artstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor%20AI-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
----
-
-## 📊 GitHub Stats 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishwassaurabh&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwassaurabh&layout=compact&theme=radical" />
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
----
-
-## 🔥 GitHub Streak 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishwassaurabh&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishwassaurabh&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,firebase" />
 </p>
 
 ---
 
-## ⭐ Star & Follow  
+# 🌟 Featured Projects
+
+## 🛒 Cartify Ecommerce Website
+✨ Full Stack MERN Ecommerce Platform  
+✨ User Authentication & Authorization  
+✨ Cart & Order Management  
+✨ Admin Dashboard  
+✨ Fully Responsive UI  
+
+---
+
+## 💰 Expense Tracker
+✨ Track Daily Expenses  
+✨ Add & Delete Transactions  
+✨ Modern Responsive Interface  
+
+---
+
+## 💱 Currency Converter
+✨ Real-Time Currency Conversion  
+✨ API Integration Project  
+✨ Fast & User Friendly UI  
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/Vishwassaurabh?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Vishwassaurabh">
-    <img src="https://img.shields.io/badge/Follow%20Me-ff0055?style=for-the-badge&logo=github" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishwassaurabh&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwassaurabh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 What I Build  
-✅ MERN Stack Full Stack Projects  
-✅ REST APIs using Node.js + Express  
-✅ Responsive UI using React  
-✅ MongoDB Database + Backend Logic  
-✅ GenAI + Prompt Engineering based tools  
+# 📈 Most Used Languages
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwassaurabh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📌 Featured Projects  
-🚀 **MERN Project:** Coming Soon...  
-🔥 **GenAI Project:** Coming Soon...  
-🌟 **Full Stack App:** Coming Soon...  
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishwassaurabh&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! 🚀</h3>
-<h4 align="center">✨ Let's build something amazing with MERN + GenAI ✨</h4>
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Vishwassaurabh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 *"Consistency + Projects + Learning = Success 🚀"*
+
+---
+
+<h3 align="center">
+⭐ From <a href="https://github.com/Vishwassaurabh">Vishwassaurabh</a> with ❤️
+</h3>
 
 
 
