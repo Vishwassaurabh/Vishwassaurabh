@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey There, I'm Vishwas Saurabh 👋</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | MERN Stack Developer | Gen AI Enthusiast
+🚀 Full Stack Web Developer | MERN Stack Developer | Gen AI 
 </h3>
 
 <p align="center">
