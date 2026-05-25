@@ -62,7 +62,7 @@
 
 # 💼 Featured Projects
 
-#https://github.com/Vishwassaurabh/Cartify-Ecommerce-Website# 🛒 Cartify Ecommerce Website
+## <a herf="https://github.com/Vishwassaurabh/Cartify-Ecommerce-Website">🛒 Cartify Ecommerce Website</a> 
 
 ✨ Full Stack MERN Ecommerce Platform with:
 
