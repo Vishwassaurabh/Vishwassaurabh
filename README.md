@@ -99,14 +99,16 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishwassaurabh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwassaurabh&show_icons=true&theme=tokyonight" />
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwassaurabh&theme=tokyonight&hide_border=true" />
+   <img height="180em" src="https://streak-stats.demolab.com?user=Vishwassaurabh&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwassaurabh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwassaurabh&layout=compact&theme=tokyonight" />
 </p>
+
+
 
 ---
 
