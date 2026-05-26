@@ -125,7 +125,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/vishwas-saurabh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
