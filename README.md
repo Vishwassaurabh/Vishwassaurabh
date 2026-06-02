@@ -27,7 +27,7 @@
 * 🤖 Exploring **Gen AI, OpenAI APIs & AI Integrations**
 * ⚡ Passionate about creating **Modern, Responsive & Scalable Web Applications**
 * 🎯 Goal: Become a Professional Software Engineer
-* 🌐 Portfolio: https://vishwassaurabhprotfolio.netlify.app/
+* 🌐 Portfolio: https://vishwassaurabhprotfolio.netlify.app
 
 ---
 
